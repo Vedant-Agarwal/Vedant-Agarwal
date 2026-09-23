@@ -2,7 +2,7 @@
 
 ML infrastructure engineer. I build the systems ML runs on — distributed, real-time, and in production — and fix the hard bugs in the open-source stack underneath: concurrency, resource lifecycle, and shared-state correctness.
 
-**Day job:** search signal infrastructure at Walmart Global Tech — Flink streaming pipelines on GCP (Dataproc) that turn raw clickstream into the session signals search ranking models train and serve on, a shared feature platform across ranking and personalization, and drift monitoring across 100+ production signals.
+**Day job:** search signal infrastructure at Walmart Global Tech — Flink streaming pipelines on GCP (Dataproc), built on Kafka, Redis and Cassandra, turning raw clickstream into the session signals search ranking models train and serve on, plus a shared feature platform across ranking and personalization and drift monitoring across 100+ production signals.
 
 **Going deep on:** infrastructure for agentic systems — long-context serving, KV-cache pressure, and evaluating multi-step agent behaviour.
 
